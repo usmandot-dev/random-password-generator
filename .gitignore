@@ -1,0 +1,18 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore screenshots folder (local-only, not needed in repo)
+screenshots/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
