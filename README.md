@@ -18,19 +18,20 @@ A Python-based command-line utility that generates secure, strong passwords base
 ## 📸 Screenshots
 
 ### 🎬 App Startup
-![Startup](screenshots/startup.png)
+
+![Startup](screenshorts/startup.png)
 
 ### 📥 User Input
-![User Input](screenshots/user_input.png)
+![User Input](screenshorts/user_input.png)
 
 ### 📄 Straight Password
-![Straight Password](screenshots/straight_password.png)
+![Straight Password](screenshorts/straight_password.png)
 
 ### 🔀 Random Password
-![Random Password](screenshots/random_password.png)
+![Random Password](screenshorts/random_password.png)
 
 ### ✅ Exit Message
-![Exit](screenshots/exit_message.png)
+![Exit](screenshorts/exit_message.png)
 
 ---
 
